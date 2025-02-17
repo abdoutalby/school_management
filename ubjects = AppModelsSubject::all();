@@ -1,0 +1,35 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#6358
+    [34mall[39m: [
+      [34;4mApp\Models\ClassRoom[39;24m {#6360
+        [34mid[39m: [35m1[39m,
+        [34mname[39m: "[32mClass 1A[39m",
+        [34mgrade_level[39m: "[32m1[39m",
+        [34mteacher_id[39m: [35m1[39m,
+        [34mcapacity[39m: [35m30[39m,
+        [34macademic_year[39m: "[32m2024-2025[39m",
+        [34mcreated_at[39m: "[32m2025-02-17 20:55:36[39m",
+        [34mupdated_at[39m: "[32m2025-02-17 20:55:36[39m",
+      },
+      [34;4mApp\Models\ClassRoom[39;24m {#6361
+        [34mid[39m: [35m2[39m,
+        [34mname[39m: "[32mClass 2B[39m",
+        [34mgrade_level[39m: "[32m2[39m",
+        [34mteacher_id[39m: [35m2[39m,
+        [34mcapacity[39m: [35m25[39m,
+        [34macademic_year[39m: "[32m2024-2025[39m",
+        [34mcreated_at[39m: "[32m2025-02-17 20:55:37[39m",
+        [34mupdated_at[39m: "[32m2025-02-17 20:55:37[39m",
+      },
+      [34;4mApp\Models\ClassRoom[39;24m {#6362
+        [34mid[39m: [35m3[39m,
+        [34mname[39m: "[32mClass 3C[39m",
+        [34mgrade_level[39m: "[32m3[39m",
+        [34mteacher_id[39m: [35m3[39m,
+        [34mcapacity[39m: [35m28[39m,
+        [34macademic_year[39m: "[32m2024-2025[39m",
+        [34mcreated_at[39m: "[32m2025-02-17 20:55:37[39m",
+        [34mupdated_at[39m: "[32m2025-02-17 20:55:37[39m",
+      },
+    ],
+  }
+
